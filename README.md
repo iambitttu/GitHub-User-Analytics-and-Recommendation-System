@@ -8,7 +8,7 @@ This project aims to collect data from GitHub users, store it in MongoDB, and cr
 
 ### Data Collection
 
-- Utilizes the GitHub API to fetch user data, handling API rate limits and incorporating error handling strategies.
+- Utilizes the GitHub API to fetch user data, handle API rate limits, and incorporate error-handling strategies.
 - Stores collected data in MongoDB in a structured format.
 - Implements batch collection to fetch at least 1000 users' data efficiently.
 
